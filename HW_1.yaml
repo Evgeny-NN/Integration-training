@@ -9,9 +9,9 @@ Person:
   INN: 23654-3245-45896-45225
   PassportSerial: 2406
   PassportNumber: 290687
-  PhoneNumber: "+79524789563"
+  PhoneNumber: '+79524789563'
   Email: fisher.87@list.ru
-  IsMarried: 'True '
+  IsMarried: 'True'
   Degree:
   - DegreeNumber: GI-4594262
     DegreeDate: '2023-08-02'
@@ -36,7 +36,7 @@ Person:
     Position: zoolinguist
     ReferenceContacts:
     - ContactName: Baranov Ilyaz Sidakovich
-      ContactPhoneNumber: "+79658746321"
+      ContactPhoneNumber: '+79658746321'
       ContactEmail: goldjgg@mail.ru
       ContactPosition: senior zoolinguist
     - ContactName: Ovechkin Zazur Filatovich
