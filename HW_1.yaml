@@ -48,7 +48,7 @@ Person:
     Position: art critic
     ReferenceContacts:
     - ContactName: Zuzik Vahtang Olegovich
-      ContactPhoneNumber: "+79358746458"
+      ContactPhoneNumber: '+79358746458'
       ContactEmail: bublic.67@mail.ru
       ContactPosition: art manager
 - PersonnelNumber: 458963
@@ -61,7 +61,7 @@ Person:
   INN: 11111-0000-33333-45225
   PassportSerial: 2506
   PassportNumber: 250687
-  PhoneNumber: "+79534789563"
+  PhoneNumber: '+79534789563'
   Email: tita.drita@list.ru
   IsMarried: 'False '
   Degree:
@@ -88,11 +88,11 @@ Person:
     Position: zoolinguist
     ReferenceContacts:
     - ContactName: Baranov Ilyaz Sidakovich
-      ContactPhoneNumber: "+79658746321"
+      ContactPhoneNumber: '+79658746321'
       ContactEmail: goldjgg@mail.ru
       ContactPosition: senior zoolinguist
     - ContactName: Ovechkin Zazur Filatovich
-      ContactPhoneNumber: "+79658746458"
+      ContactPhoneNumber: '+79658746458'
       ContactEmail: derevnya@mail.ru
       ContactPosition: director zoolinguist
   - DateFrom: '2023-01-10'
@@ -100,7 +100,7 @@ Person:
     Position: art critic
     ReferenceContacts:
     - ContactName: Zuzik Vahtang Olegovich
-      ContactPhoneNumber: "+79358746458"
+      ContactPhoneNumber: '+79358746458'
       ContactEmail: bublic.67@mail.ru
       ContactPosition: art manager
 - PersonnelNumber: XXX-111
@@ -113,7 +113,7 @@ Person:
   INN: 58963-0000-33333-45225
   PassportSerial: 2503
   PassportNumber: 250687
-  PhoneNumber: "+79534789563"
+  PhoneNumber: '+79534789563'
   Email: tita.drita@list.ru
   IsMarried: 'False '
   Degree:
@@ -144,7 +144,7 @@ Person:
       ContactEmail: goldjgg@mail.ru
       ContactPosition: senior zoolinguist
     - ContactName: Ovechkin Zazur Filatovich
-      ContactPhoneNumber: "+79658746458"
+      ContactPhoneNumber: '+79658746458'
       ContactEmail: derevnya@mail.ru
       ContactPosition: director zoolinguist
   - DateFrom: '2023-01-10'
@@ -152,6 +152,6 @@ Person:
     Position: art critic
     ReferenceContacts:
     - ContactName: Zuzik Vahtang Olegovich
-      ContactPhoneNumber: "+79358746458"
+      ContactPhoneNumber: '+79358746458'
       ContactEmail: bublic.67@mail.ru
       ContactPosition: art manager
