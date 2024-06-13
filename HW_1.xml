@@ -1,0 +1,188 @@
+<root>
+    <Person>
+        <PersonnelNumber>74569852</PersonnelNumber>
+        <Name>Liza</Name>
+        <Surname>Borisova</Surname>
+        <Patronymic>Arkadyevna</Patronymic>
+        <DateOfBirth>2000-03-07</DateOfBirth>
+        <Age>24</Age>
+        <Sex>female</Sex>
+        <INN>23654-3245-45896-45225</INN>
+        <PassportSerial>2406</PassportSerial>
+        <PassportNumber>290687</PassportNumber>
+        <PhoneNumber>+79524789563</PhoneNumber>
+        <Email>fisher.87@list.ru</Email>
+        <IsMarried>True </IsMarried>
+        <Degree>
+            <DegreeNumber>GI-4594262</DegreeNumber>
+            <DegreeDate>2023-08-02</DegreeDate>
+            <DegreeSpecialty>agronomist</DegreeSpecialty>
+            <DegreeUniversity>Nizhny Novgorod State Agricultural Academy</DegreeUniversity>
+        </Degree>
+        <Degree>
+            <DegreeNumber>MI-654789</DegreeNumber>
+            <DegreeDate>2024-06-30</DegreeDate>
+            <DegreeSpecialty>Economist</DegreeSpecialty>
+            <DegreeUniversity>Lobachevsky University</DegreeUniversity>
+        </Degree>
+        <Languages>Spanish</Languages>
+        <Languages>Mayan language</Languages>
+        <Skills>MySQL</Skills>
+        <Skills>PostgreSQLMS</Skills>
+        <Skills>Power BI</Skills>
+        <Skills>Power Query</Skills>
+        <Skills>DAX</Skills>
+        <PlacesOfWork>
+            <DateFrom>2022-02-04</DateFrom>
+            <DateTo>2022-12-31</DateTo>
+            <Position>zoolinguist</Position>
+            <ReferenceContacts>
+                <ContactName>Baranov Ilyaz Sidakovich</ContactName>
+                <ContactPhoneNumber>+79658746321</ContactPhoneNumber>
+                <ContactEmail>goldjgg@mail.ru</ContactEmail>
+                <ContactPosition>senior zoolinguist</ContactPosition>
+            </ReferenceContacts>
+            <ReferenceContacts>
+                <ContactName>Ovechkin Zazur Filatovich</ContactName>
+                <ContactPhoneNumber>+79658746458</ContactPhoneNumber>
+                <ContactEmail>derevnya@mail.ru</ContactEmail>
+                <ContactPosition>director zoolinguist</ContactPosition>
+            </ReferenceContacts>
+        </PlacesOfWork>
+        <PlacesOfWork>
+            <DateFrom>2023-01-10</DateFrom>
+            <DateTo>2023-12-30</DateTo>
+            <Position>art critic</Position>
+            <ReferenceContacts>
+                <ContactName>Zuzik Vahtang Olegovich</ContactName>
+                <ContactPhoneNumber>+79358746458</ContactPhoneNumber>
+                <ContactEmail>bublic.67@mail.ru</ContactEmail>
+                <ContactPosition>art manager</ContactPosition>
+            </ReferenceContacts>
+        </PlacesOfWork>
+    </Person>
+    <Person>
+        <PersonnelNumber>458963</PersonnelNumber>
+        <Name>Borya</Name>
+        <Surname>Lulu</Surname>
+        <Patronymic>Nikolaevich</Patronymic>
+        <DateOfBirth>1987-04-11</DateOfBirth>
+        <Age>37</Age>
+        <Sex>male</Sex>
+        <INN>11111-0000-33333-45225</INN>
+        <PassportSerial>2506</PassportSerial>
+        <PassportNumber>250687</PassportNumber>
+        <PhoneNumber>+79534789563</PhoneNumber>
+        <Email>tita.drita@list.ru</Email>
+        <IsMarried>False </IsMarried>
+        <Degree>
+            <DegreeNumber>GI-4594262</DegreeNumber>
+            <DegreeDate>2023-08-02</DegreeDate>
+            <DegreeSpecialty>agronomist</DegreeSpecialty>
+            <DegreeUniversity>Nizhny Novgorod State Agricultural Academy</DegreeUniversity>
+        </Degree>
+        <Degree>
+            <DegreeNumber>MI-654789</DegreeNumber>
+            <DegreeDate>2024-06-30</DegreeDate>
+            <DegreeSpecialty>Economist</DegreeSpecialty>
+            <DegreeUniversity>Lobachevsky University</DegreeUniversity>
+        </Degree>
+        <Languages>Spanish</Languages>
+        <Languages>Mayan language</Languages>
+        <Skills>MySQL</Skills>
+        <Skills>PostgreSQLMS</Skills>
+        <Skills>Power BI</Skills>
+        <Skills>Power Query</Skills>
+        <Skills>DAX</Skills>
+        <PlacesOfWork>
+            <DateFrom>2022-02-04</DateFrom>
+            <DateTo>2022-12-31</DateTo>
+            <Position>zoolinguist</Position>
+            <ReferenceContacts>
+                <ContactName>Baranov Ilyaz Sidakovich</ContactName>
+                <ContactPhoneNumber>+79658746321</ContactPhoneNumber>
+                <ContactEmail>goldjgg@mail.ru</ContactEmail>
+                <ContactPosition>senior zoolinguist</ContactPosition>
+            </ReferenceContacts>
+            <ReferenceContacts>
+                <ContactName>Ovechkin Zazur Filatovich</ContactName>
+                <ContactPhoneNumber>+79658746458</ContactPhoneNumber>
+                <ContactEmail>derevnya@mail.ru</ContactEmail>
+                <ContactPosition>director zoolinguist</ContactPosition>
+            </ReferenceContacts>
+        </PlacesOfWork>
+        <PlacesOfWork>
+            <DateFrom>2023-01-10</DateFrom>
+            <DateTo>2023-12-30</DateTo>
+            <Position>art critic</Position>
+            <ReferenceContacts>
+                <ContactName>Zuzik Vahtang Olegovich</ContactName>
+                <ContactPhoneNumber>+79358746458</ContactPhoneNumber>
+                <ContactEmail>bublic.67@mail.ru</ContactEmail>
+                <ContactPosition>art manager</ContactPosition>
+            </ReferenceContacts>
+        </PlacesOfWork>
+    </Person>
+    <Person>
+        <PersonnelNumber>XXX-111</PersonnelNumber>
+        <Name>Lev</Name>
+        <Surname>Tolstoy</Surname>
+        <Patronymic>Aristarhovich</Patronymic>
+        <DateOfBirth>1977-04-11</DateOfBirth>
+        <Age>47</Age>
+        <Sex>male</Sex>
+        <INN>58963-0000-33333-45225</INN>
+        <PassportSerial>2503</PassportSerial>
+        <PassportNumber>250687</PassportNumber>
+        <PhoneNumber>+79534789563</PhoneNumber>
+        <Email>tita.drita@list.ru</Email>
+        <IsMarried>False </IsMarried>
+        <Degree>
+            <DegreeNumber>GI-4594262</DegreeNumber>
+            <DegreeDate>2023-08-02</DegreeDate>
+            <DegreeSpecialty>agronomist</DegreeSpecialty>
+            <DegreeUniversity>Nizhny Novgorod State Agricultural Academy</DegreeUniversity>
+        </Degree>
+        <Degree>
+            <DegreeNumber>MI-654789</DegreeNumber>
+            <DegreeDate>2024-06-30</DegreeDate>
+            <DegreeSpecialty>Economist</DegreeSpecialty>
+            <DegreeUniversity>Lobachevsky University</DegreeUniversity>
+        </Degree>
+        <Languages>Spanish</Languages>
+        <Languages>Mayan language</Languages>
+        <Skills>MySQL</Skills>
+        <Skills>PostgreSQLMS</Skills>
+        <Skills>Power BI</Skills>
+        <Skills>Power Query</Skills>
+        <Skills>DAX</Skills>
+        <PlacesOfWork>
+            <DateFrom>2022-02-04</DateFrom>
+            <DateTo>2022-12-31</DateTo>
+            <Position>zoolinguist</Position>
+            <ReferenceContacts>
+                <ContactName>Baranov Ilyaz Sidakovich</ContactName>
+                <ContactPhoneNumber>+79658746321</ContactPhoneNumber>
+                <ContactEmail>goldjgg@mail.ru</ContactEmail>
+                <ContactPosition>senior zoolinguist</ContactPosition>
+            </ReferenceContacts>
+            <ReferenceContacts>
+                <ContactName>Ovechkin Zazur Filatovich</ContactName>
+                <ContactPhoneNumber>+79658746458</ContactPhoneNumber>
+                <ContactEmail>derevnya@mail.ru</ContactEmail>
+                <ContactPosition>director zoolinguist</ContactPosition>
+            </ReferenceContacts>
+        </PlacesOfWork>
+        <PlacesOfWork>
+            <DateFrom>2023-01-10</DateFrom>
+            <DateTo>2023-12-30</DateTo>
+            <Position>art critic</Position>
+            <ReferenceContacts>
+                <ContactName>Zuzik Vahtang Olegovich</ContactName>
+                <ContactPhoneNumber>+79358746458</ContactPhoneNumber>
+                <ContactEmail>bublic.67@mail.ru</ContactEmail>
+                <ContactPosition>art manager</ContactPosition>
+            </ReferenceContacts>
+        </PlacesOfWork>
+    </Person>
+</root>
